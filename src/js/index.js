@@ -1,2 +1,3 @@
-// require('jquery');
+require('./../styles/index.scss')
+
 console.log($);
